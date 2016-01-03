@@ -4,7 +4,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.java, *.xml, *.properties" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -14,11 +14,11 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.java, *.xml</mask>
-      <mask>*.java, *.xml, *.properties</mask>
       <mask>*.properties</mask>
       <mask>*.properties, *.java</mask>
       <mask>*.java</mask>
       <mask>pom.xml</mask>
+      <mask>*.java, *.xml, *.properties</mask>
     </recentFileMasks>
   </component>
 </application>
