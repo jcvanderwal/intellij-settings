@@ -105,6 +105,7 @@
   </component>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://canonical.estatio.org/invoice/v1/invoice.xsd" location="$USER_HOME$/src/github/estatio/estatio/estatioapp/canonical/target/generated-resources/schemagen/invoice.xsd" />
+    <resource url="http://canonical.estatio.org/party/v1/party.xsd" location="$USER_HOME$/src/github/estatio/estatio/estatioapp/canonical/target/generated-resources/schemagen/party.xsd" />
   </component>
   <component name="RefactoringSettings">
     <option name="renameOverloads" value="false" />
