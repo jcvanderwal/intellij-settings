@@ -102,6 +102,10 @@
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="ExternalResourceManagerImpl">
     <resource url="c:/" location="$USER_HOME$/src/github/estatio/isis/adocs/documentation/src/main/asciidoc/applib/layout/grid/bootstrap3/bootstrap3.xsd" />
