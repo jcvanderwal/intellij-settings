@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Declaration/Implement Abstract Method" />
+  </component>
+</application>
