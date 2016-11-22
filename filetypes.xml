@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="14">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="EST-921-00-drop-table.sql" type="PLAIN_TEXT" />
       <mapping pattern="999-drop-tools" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
