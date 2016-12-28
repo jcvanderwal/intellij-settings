@@ -1,0 +1,10 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="c:/" location="$USER_HOME$/src/github/estatio/isis/adocs/documentation/src/main/asciidoc/applib/layout/grid/bootstrap3/bootstrap3.xsd" />
+    <resource url="http://canonical.estatio.org/financial/v1/bankaccount.xsd" location="$USER_HOME$/Desktop/schemagen/bankaccount.xsd" />
+    <resource url="http://canonical.estatio.org/invoice/v1/invoice.xsd" location="$USER_HOME$/src/github/estatio/estatio/estatioapp/canonical/target/generated-resources/schemagen/invoice.xsd" />
+    <resource url="http://canonical.estatio.org/party/v1/party.xsd" location="$USER_HOME$/src/github/estatio/estatio/estatioapp/canonical/target/generated-resources/schemagen/party.xsd" />
+    <resource url="http://isis.apache.org/applib/layout/component/component.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea15/extResources/80431609_component.xsd" />
+    <resource url="http://isis.apache.org/applib/layout/grid/bootstrap3/bootstrap3.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea15/extResources/d917747e_bootstrap3.xsd" />
+  </component>
+</application>
