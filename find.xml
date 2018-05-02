@@ -3,21 +3,14 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.java, *.xml</mask>
-      <mask>*.properties</mask>
-      <mask>*.properties, *.java</mask>
-      <mask>*.java</mask>
-      <mask>*.xml, *.properties</mask>
-      <mask>pom.xml</mask>
-      <mask>*.java, *.xml, *.properties</mask>
-    </recentFileMasks>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
