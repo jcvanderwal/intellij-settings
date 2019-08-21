@@ -2,11 +2,12 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="999-drop-tools" type="PLAIN_TEXT" />
-      <mapping pattern="ThekomGameV1" type="PLAIN_TEXT" />
-      <mapping pattern="EST-921-00-drop-table.sql" type="PLAIN_TEXT" />
-      <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="ftl-orig" type="PLAIN_TEXT" />
+      <removed_mapping pattern="dockerfile" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="999-drop-tools" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="ThekomGameV1" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="quicktapsurvey.proto" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="EST-921-00-drop-table.sql" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
