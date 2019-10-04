@@ -1,4 +1,4 @@
-<code_scheme name="Apache Isis">
+<code_scheme name="Apache Isis" version="173">
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="GENERATE_FINAL_PARAMETERS" value="true" />
   <option name="LAYOUT_STATIC_IMPORTS_SEPARATELY" value="false" />
@@ -30,6 +30,41 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="300" />
+  <JavaCodeStyleSettings>
+    <option name="GENERATE_FINAL_LOCALS" value="true" />
+    <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+    <option name="LAYOUT_STATIC_IMPORTS_SEPARATELY" value="false" />
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value />
+    </option>
+    <option name="IMPORT_LAYOUT_TABLE">
+      <value>
+        <package name="java" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="javax" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="com" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org.apache.isis" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org.isisaddons" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org.incode" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org.estatio" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="" withSubpackages="true" static="false" />
+        <emptyLine />
+      </value>
+    </option>
+  </JavaCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_BLANK_LINES" value="1" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
