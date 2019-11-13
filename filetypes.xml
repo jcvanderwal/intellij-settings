@@ -5,11 +5,12 @@
       <mapping ext="avsc" type="JSON" />
       <mapping ext="ftl-orig" type="PLAIN_TEXT" />
       <mapping ext="plan" type="PLAIN_TEXT" />
-      <mapping pattern="*ansible*.yaml" type="YAML_EX" />
-      <mapping pattern="*ansible*.yml" type="YAML_EX" />
-      <mapping pattern="*.playbook.yml" type="YAML_EX" />
+      <mapping pattern=".*/playbook?/.*.ya?ml" type="YAML_EX" />
       <removed_mapping pattern="EST-921-00-drop-table.sql" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="*ansible*.yml" approved="true" type="YAML_EX" />
+      <removed_mapping pattern="*.playbook.yml" approved="true" type="YAML_EX" />
       <removed_mapping pattern="quicktapsurvey.proto" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="*ansible*.yaml" approved="true" type="YAML_EX" />
       <removed_mapping pattern="dockerfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="999-drop-tools" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="ThekomGameV1" approved="true" type="PLAIN_TEXT" />
