@@ -3,8 +3,11 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="avsc" type="JSON" />
-      <mapping ext="plan" type="PLAIN_TEXT" />
       <mapping ext="ftl-orig" type="PLAIN_TEXT" />
+      <mapping ext="plan" type="PLAIN_TEXT" />
+      <mapping pattern="*ansible*.yaml" type="YAML_EX" />
+      <mapping pattern="*ansible*.yml" type="YAML_EX" />
+      <mapping pattern="*.playbook.yml" type="YAML_EX" />
       <removed_mapping pattern="EST-921-00-drop-table.sql" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="quicktapsurvey.proto" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="dockerfile" approved="true" type="PLAIN_TEXT" />
