@@ -2,13 +2,13 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="avsc" type="JSON" />
       <mapping ext="php" type="PHP" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".tokens" type="PLAIN_TEXT" />
-      <mapping ext="plan" type="PLAIN_TEXT" />
       <mapping ext="ftl-orig" type="PLAIN_TEXT" />
-      <mapping pattern=".*/playbook?/.*.ya?ml" type="YAML_EX" />
       <removed_mapping pattern="EST-921-00-drop-table.sql" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="*ansible*.yml" approved="true" type="YAML_EX" />
       <removed_mapping pattern="*.playbook.yml" approved="true" type="YAML_EX" />
@@ -17,6 +17,7 @@
       <removed_mapping pattern="dockerfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="999-drop-tools" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="ThekomGameV1" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".*/playbook?/.*.ya?ml" type="YAML_EX" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
