@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="avsc" type="JSON" />
-      <mapping pattern=".tokens" type="PLAIN_TEXT" />
       <mapping pattern="thekom-wifi-csv.avro" type="PLAIN_TEXT" />
+      <mapping pattern=".tokens" type="PLAIN_TEXT" />
       <mapping ext="ftl-orig" type="PLAIN_TEXT" />
       <removed_mapping pattern="EST-921-00-drop-table.sql" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="*ansible*.yml" approved="true" type="YAML_EX" />
